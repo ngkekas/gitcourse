@@ -1,1 +1,2 @@
 My first remote file
+ssh-add c:/Users/YOU/.ssh/id_ed25519
