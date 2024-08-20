@@ -1,3 +1,4 @@
 My first remote file
 If git bash asks for ssh key, have this just in case:
+eval `ssh-agent -s`
 ssh-add c:/Users/YOU/.ssh/id_ed25519
